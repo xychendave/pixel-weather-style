@@ -1,4 +1,4 @@
-<img width="1917" height="959" alt="image" src="https://github.com/user-attachments/assets/dc101f30-4fba-4b34-9416-df97affd659e" /><div align="center">
+<div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
