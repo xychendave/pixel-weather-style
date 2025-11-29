@@ -1,0 +1,7 @@
+{
+  "name": "PixelWeather & Style",
+  "description": "A pixel-art style weather dashboard and outfit recommender with a generative avatar maker.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
